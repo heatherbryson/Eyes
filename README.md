@@ -1,5 +1,5 @@
 # Eyes
-With this assignment we worked a lot with styling and incorporating all three languages to work together. We were given the task of duplicating one of the eyes and making it follow our curser. 
+With this assignment we worked a lot with styling and incorporating Java Script, HTML, and CSS to work together. We were given the task of duplicating one of the eyes and making it follow our curser. 
 
 To play, simply move your curser around the screen and watch as the eyes follow along.
 
